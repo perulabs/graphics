@@ -1,3 +1,2 @@
-/*Some styles*/
-* {margin: 0; padding: 0;}
-#canvas {display: block;}
+<!-- Lets make a cool flame effect -->
+<canvas id="canvas"></canvas>
